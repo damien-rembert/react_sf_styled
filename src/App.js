@@ -17,8 +17,8 @@ const App = () => {
   );
 };
 
-const Page = styled(BrowserRouter)`
-  width: 100vw;
-`;
+// const Page = styled(BrowserRouter)`
+//   width: 100vw;
+// `;
 
 export default App;
